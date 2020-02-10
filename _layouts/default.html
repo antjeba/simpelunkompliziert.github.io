@@ -70,23 +70,13 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
                 </li>
-
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
-                </li>
-
                 {% include search-lunr.html %}
-
             </ul>
-
         <!-- End Menu -->
-
     </div>
-
     </div>
 </nav>
 <!-- End Navigation
@@ -173,10 +163,5 @@ ga('send', 'pageview');
 {% endif %}
 
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
-
-{% if page.layout == 'post' %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-{% endif %}
-
 </body>
 </html>

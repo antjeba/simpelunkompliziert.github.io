@@ -19,7 +19,7 @@
 ## 2019-03-20, v1.0.32
 - Centered avatar image on smaller devices
 - Removed .html endings in cats/tags
-- Added Linkedin share 
+- Added Linkedin share
 - Added Table of Contents (toc:true)
 - Added Paragraph before TOC (beforetoc: "My short description here")
 
