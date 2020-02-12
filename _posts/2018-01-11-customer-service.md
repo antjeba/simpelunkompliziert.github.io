@@ -1,29 +1,17 @@
 ---
 layout: post
-title:  "Inception Movie"
-categories: [ Jekyll, tutorial ]
+title:  "CO2 sparen im Haushalt."
+categories: [ Klima ]
 tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+date: 2021-12-13 12:00:00
+image: assets/images/11.jpg   
+description: "CO2 sparen im Haushalt."
 featured: true
 hidden: true
 rating: 4.5
 ---
+## Hallo ihr Lieben,
+ich wollte Euch ein paar Tipps für das schnelle und einfache einsparen von CO2 geben. Mit ein paar einfachen Kniffen, die einen nicht im Alltag einschränken, kann schon einiges eingespart werden. Natürlich wäre eine drastische Umgestaltung des Lebens für das Klima vielleicht besser, doch wir alle wissen: Aller Anfang ist Schwer und niemand von uns ist perfekt ;).
+Heute geht es zunächst um die Themen Strom, Batterien und Ernährung, das alles gefüttert mit ein paar Verweisen und Statistiken.
 
-Unkompliziertes einsparen von CO2 im Haushalt
-
-#### How to use?
-
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
-
-```html
----
-layout: post
-title:  "Inception Movie"
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
----
-```
+###Strom
