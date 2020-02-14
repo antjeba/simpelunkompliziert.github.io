@@ -54,6 +54,7 @@ pre {
     padding-top: 1.5rem;
     margin-top: 57px;
     transition: all 0.4s;
+    background-color: rgba(241, 244, 243)
 }
 
 section {
@@ -262,6 +263,7 @@ span.post-read-more a:hover {
     overflow: hidden;
     border: 1px solid rgba(78,97,95);
     min-width: 180px;
+    background: rgba(241, 244, 243)
 }
 
 .mediumnavigation .form-inline {
