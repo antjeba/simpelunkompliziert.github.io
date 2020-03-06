@@ -5,6 +5,7 @@ categories: [ Klima ]
 image: assets/images/co2-sparen.jpg   
 description: "CO2 sparen im Haushalt."
 featured: true
+hidden: true
 
 ---
 

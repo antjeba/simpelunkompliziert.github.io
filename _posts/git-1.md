@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Erste Schritte mit git"
-categories: [ Software ] [git]
+categories: [ Software ]
 image: assets/images/git.jpg   
-description: "CO2 sparen im Haushalt."
+description: "git."
 featured: true
+hidden: true
 ---
 
-Wenn man effizient Software Entwickeln möchte, kommt man um eine Quellcodeverwaltung nicht drum herum. Dies ist in der Regel Git, es wird von verschiedenen Anbietern umgesetzt und selbstverständlich kann auch ein eigener Server mit git ausgestattet werden und als Repository dienen. Der bequeme Weg wäre das Nutzen von github oder gitlab.
+Wenn man effizient Software Entwickeln möchte, kommt man um eine Quellcodeverwaltung nicht drum herum. Dies ist in der Regel Git, es wird von verschiedenen Anbietern umgesetzt und selbstverständlich kann auch ein eigener Server mit git ausgestattet werden und als Quellcodeverwaltung dienen. Der bequeme Weg wäre das Nutzen von github oder gitlab.
 Doch kurz noch vorab: git ist ein riesiges Thema, es wird hier lediglich der Einstieg betrachtet und wie schnell, mithilfe von git, ein Softwareprojekt sauber entstehen kann.
 github und gitlab bieten verschiedene Funktionalitäten, die Basics sind bei beiden Anbietern dieselben.
 Dieser Blog wird, beispielsweise, in github.com verwaltet, dies hängt mit dem einfachen Deployment zusammen. Für einige private Projekte, die teilweise aus mehreren Komponenten bestehen, nutze ich gitlab. Gitlab hat einige Vorteile, so schafft es Gitlab das Vereinigen von Software Entwicklung und Operations in einer Anwendung zu gestalten. Außerdem bietet GitLab eine komplexe Nutzerverwaltung.
@@ -24,25 +25,3 @@ Ist der Key erzeugt, so wird dieser in gitlab geladen. Loggt euch hierfür zunä
 Abschließend würde ich noch gitkraken Installieren. Gitkraken ermöglicht es euch euer GitRepo mit einer Oberfläche zu verwalten. Alternativ kann natürlich die Konsole genutzt werden, diese schreckt aber einige eher ab.
 
 Jetzt sind git, gitlab und gitkraken eingerichtet und es kann mit der Entwicklung begonnen werden. Wie das genau aussieht dazu später mehr...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
