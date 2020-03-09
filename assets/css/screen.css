@@ -325,7 +325,8 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-    font-weight: 700;
+    font-family: Nirmala UI;
+    font-weight: 350;
     margin-bottom: 1rem;
 }
 
@@ -338,7 +339,7 @@ span.post-read-more a:hover {
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
-    
+
 }
 
 .link-dark {
@@ -346,7 +347,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
+    font-family: Nirmala UI;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
